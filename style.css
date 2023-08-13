@@ -390,6 +390,12 @@ img {
         font-size: 1.5rem;
     }
 
+    .nav__list a:hover,
+    .nav__list a.active {
+        color: black;
+    }
+
+
     .nav__list i {
         position: absolute;
         top: 2rem;
